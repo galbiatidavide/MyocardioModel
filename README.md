@@ -59,10 +59,10 @@ $$
 <table>
   <tr>
     <td align="center"><strong>Loss Evolution</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/loss_function_evolution.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/loss_function_evolution.png" width="300">
     </td>
     <td align="center"><strong>NN Prediction vs. Eikonal</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/nn_prediction.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/nn_prediction.png" width="300">
     </td>
   </tr>
 </table>
@@ -82,10 +82,10 @@ Estimate a 2D **speed field** \( c(x,y) \) from only 20 activation time recordin
 <table>
   <tr>
     <td align="center"><strong>Autoencoder Architecture</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/autoencoder_architecture.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/autoencoder_architecture.png" width="300">
     </td>
     <td align="center"><strong>Original vs. Decoded Field</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/speedfield_original.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/speedfield_original.png" width="300">
     </td>
   </tr>
 </table>
@@ -94,14 +94,14 @@ Estimate a 2D **speed field** \( c(x,y) \) from only 20 activation time recordin
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_1.png" width="150"></td>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_2.png" width="150"></td>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_3.png" width="150"></td>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_4.png" width="150"></td>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_5.png" width="150"></td>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_6.png" width="150"></td>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_7.png" width="150"></td>
-    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/param_distribution_8.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_1.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_2.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_3.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_4.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_5.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_6.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_7.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/param_distribution_8.png" width="150"></td>
   </tr>
 </table>
 
@@ -112,10 +112,10 @@ An alternative approach was tested using a **U-net architecture** to directly le
 <table>
   <tr>
     <td align="center"><strong>U-net Architecture</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/unet_architecture.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/unet_architecture.png" width="300">
     </td>
     <td align="center"><strong>Reconstructed Speed Field</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/unet_speedfield_predicted.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/unet_speedfield_predicted.png" width="300">
     </td>
   </tr>
 </table>
