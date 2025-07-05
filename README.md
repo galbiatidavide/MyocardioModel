@@ -1,7 +1,7 @@
 # Mathematical Modeling and Simulation of Cardiac Function
 
 Scientific Computing Tools for Advanced Mathematical Modelling  
-**Instructor**: Prof. Stefano Pagani  
+**Supervisor**: Prof. Stefano Pagani  
 **Institution**: Politecnico di Milano  
 **Academic Year**: 2023–2024  
 
