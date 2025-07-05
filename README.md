@@ -1,7 +1,6 @@
-# ❤️ Enigma: Mathematical Modeling and Simulation of Cardiac Function
+# Enigma: Mathematical Modeling and Simulation of Cardiac Function
 
 Scientific Computing Tools for Advanced Mathematical Modelling  
-**Authors**: Alessandro Anichini, Giovanni Maria Bonvini, Davide Galbiati  
 **Instructor**: Prof. Stefano Pagani  
 **Institution**: Politecnico di Milano  
 **Academic Year**: 2023–2024  
@@ -30,10 +29,10 @@ Reconstruct the **activation time field** and **conduction velocity** from 20 sp
 <table>
   <tr>
     <td align="center"><strong>Activation Time Field</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/activation_time_field.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/activation_time_field.png" width="300">
     </td>
     <td align="center"><strong>Velocity Field Estimation</strong><br>
-      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/miocardio_images/velocity_field_estimation.png" width="300">
+      <img src="https://raw.githubusercontent.com/galbiatidavide/MyocardioModel/main/myocardio_images/velocity_field_estimation.png" width="300">
     </td>
   </tr>
 </table>
