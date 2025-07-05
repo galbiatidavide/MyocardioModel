@@ -1,4 +1,4 @@
-# Enigma: Mathematical Modeling and Simulation of Cardiac Function
+# Mathematical Modeling and Simulation of Cardiac Function
 
 Scientific Computing Tools for Advanced Mathematical Modelling  
 **Instructor**: Prof. Stefano Pagani  
@@ -9,7 +9,7 @@ Scientific Computing Tools for Advanced Mathematical Modelling
 
 ## 🧠 Project Overview
 
-**Enigma** is a mathematical and computational framework to reconstruct, simulate, and infer electrical propagation in the human heart from sparse electro-anatomical data.  
+This is a mathematical and computational framework to reconstruct, simulate, and infer electrical propagation in the human heart from sparse electro-anatomical data.  
 
 Developed within the course *Scientific Computing Tools for Advanced Mathematical Modelling*, this project uses **Gaussian Processes**, **Neural Networks**, **Autoencoders**, and **U-Net architectures** to tackle challenges in cardiac activation modeling.  
 The codebase is structured in three main checkpoints:
